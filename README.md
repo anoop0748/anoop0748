@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **anoop0748/anoop0748** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -30,7 +30,7 @@ and DS & Algo.</h3>
 </p>
 
 ## 🙋‍♂️ About Me
-🌱 I’m currently Working as :  Software Developer.
+🌱 I’m currently learning Full Stack Web Developer Course from 10X Academy .
 
 🤝 I’m looking for help with OpenSource Contributions. Ping me, if you can guide me. Would be grateful.
 
