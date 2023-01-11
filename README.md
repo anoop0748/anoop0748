@@ -36,7 +36,7 @@ and DS & Algo.</h3>
 
 💬 Ask me about : Data Structures and Algorithms, JavaScript, React, Redux and MongoDb
 
-🥅 2021 Goals : Learning new things and contribute more  
+🥅 2023 Goals : Learning new things and contribute more  
 
  📫 You can reach me at [chat](mailto:anoop.gada@gmail.com)
  
