@@ -76,7 +76,7 @@ and DS & Algo.</h3>
 
 <!-- "https://activity-graph.herokuapp.com/graph?username=anoop0748&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" -->
 
-<a href="https://github.com/anoop0748/github-readme-activity-graph"><img alt="Anoop's Graph" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anoop0748&theme=dracula" /></a>
+<a href="https://github.com/anoop0748/github-readme-activity-graph" ><p align="center"><img alt="Anoop's Graph" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anoop0748&theme=dracula" /></p></a>
 
 <br/>
 
